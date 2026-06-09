@@ -6,4 +6,8 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 data/raw/
-data/processed/
+model/checkpoints/
+*.bin
+*.pt
+*.safetensors
+evaluation/results.json
