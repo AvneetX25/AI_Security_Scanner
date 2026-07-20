@@ -173,7 +173,6 @@ safescript/
 ├── cli/
 │   └── main.py                 # CLI entrypoint (--repo argument)
 ├── rules/
-│   ├── python_security.yml     # Custom Semgrep rules — Python
 │   └── java_security.yml       # Custom Semgrep rules — Java
 ├── data/
 │   ├── raw/                    # Downloaded datasets
